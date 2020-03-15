@@ -1,4 +1,4 @@
-# Handwritten_Digit Recognition using MNIST
+# Handwritten Digit Recognition using MNIST
 This model for "Handwritten digit recognition" is built using four different algorithms listed below. 
 And then these four algorithms were trained and tested with the same data and the corresponding accuracies were calculated.
 These accuracies were then compared and the best approach shall be considered for deployment.
